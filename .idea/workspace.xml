@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fd45894-a458-4e57-8f46-f90ff5a50c6d" name="Changes" comment="Initialisation of the project's structure">
+      <change afterPath="$PROJECT_DIR$/resources/i18n/en/README_en.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/i18n/ru/README_ru.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/i18n/ru/password-manager.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/frxnxtic/passwordmanager/ui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frxnxtic/passwordmanager/ui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-manager.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/i18n/en/password-manager.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +60,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\den08\IdeaProjects\PasswordManager\resources\i18n\en" />
+      <recent name="C:\Users\den08\IdeaProjects\PasswordManager\resources\i18n\ru" />
       <recent name="C:\Users\den08\IdeaProjects\PasswordManager\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\den08\IdeaProjects\PasswordManager\resources\i18n\ru" />
+      <recent name="C:\Users\den08\IdeaProjects\PasswordManager\resources\i18n" />
+      <recent name="C:\Users\den08\IdeaProjects\PasswordManager\resources\icons" />
+      <recent name="C:\Users\den08\IdeaProjects\PasswordManager" />
       <recent name="C:\Users\den08\IdeaProjects\PasswordManager\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -76,6 +86,7 @@
       <workItem from="1684511912367" duration="1616000" />
       <workItem from="1684513593754" duration="314000" />
       <workItem from="1684513960278" duration="12333000" />
+      <workItem from="1684673208830" duration="552000" />
     </task>
     <task id="LOCAL-00001" summary="Initialisation of the project's structure">
       <created>1684530030327</created>

@@ -1,6 +1,6 @@
 # Password Manager
 
-![Password Manager](resources/i18n/ru/password-manager.jpg)
+![Password Manager](password-manager.jpg)
 
 Проект Password Manager представляет собой десктопное приложение, которое помогает пользователям безопасно хранить и управлять своими паролями. Приложение включает функции шифрования, генерации сильных паролей и автоматической вставки пароля в нужные поля.
 
@@ -59,7 +59,3 @@
 
 5. Откройте запрос на слияние (Pull Request) на GitHub.
 
-
-## Language
-- [English](resources/i18n/en/README_en.md)
-- [Русский](resources/i18n/ru/README_ru.md)
